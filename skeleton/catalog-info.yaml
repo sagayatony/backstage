@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Postgre SQL Azure Terraform"
+  name: "PostgreSQLAzureTerraform"
 spec:
   type: service
   owner: user:sagayatony
