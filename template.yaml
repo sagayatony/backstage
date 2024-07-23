@@ -16,9 +16,9 @@ spec:
         - name
       properties:
         name:
-          title: Name
+          title: Postgre SQL Flex Azure 
           type: string
-          description: Unique name of the component
+          description: Postgre SQL Flex Azure 
           ui:autofocus: true
           ui:options:
             rows: 5
@@ -40,7 +40,7 @@ spec:
       name: Fetch Base
       action: fetch:template
       input:
-        url: .
+        url: /skeleton
         values:
           name: ${{ parameters.name }}
 
