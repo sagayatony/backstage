@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test123"
+spec:
+  type: service
+  owner: user:sagayatony
+  lifecycle: experimental
