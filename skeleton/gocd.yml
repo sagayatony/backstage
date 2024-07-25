@@ -1,0 +1,3 @@
+metadata:
+  annotations:
+    gocd.org/pipelines: backstage,backstage-pr,backstage-builder
